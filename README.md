@@ -1,10 +1,10 @@
 # Interactive-Storytelling-Game
 Developed a platform that enables users without technical skills to create branching, choice-based interactive stories.
 
-Overview
+**Overview**
 A platform for creating branching interactive stories without any programming. Inspired by Choice of Games and Project Aon, this tool helps users design choice-based narratives with conditional logic and non-linear progression. Can also be adapted for chatbot-like experiences or educational content.
 
-Features
+**Features**
 No-code visual editor for creating stories
 
 Support for conditional branching
@@ -15,13 +15,13 @@ Export/share stories
 
 Can be used for games, educational tools, or chatbot prototypes
 
-**Tech Stack**
-**Frontend**: [React / HTML/CSS/JS]
-**Mobile**: [Dart]
+**Tech Stack** 
+**Frontend**: [React / HTML/CSS/JS]<br>
+**Mobile**: [Dart]<br>
 **Backend**: [Java]
 
 
-Usage
+**Usage**
 Open the editor.
 
 Create story nodes (pages).
@@ -32,5 +32,5 @@ Define conditions (optional).
 
 Preview and export your story.
 
-Motivation
+**Motivation**
 Building interactive content is hard for non-programmers. This project simplifies that by offering a visual tool to structure branching stories and logic-based flows with zero coding.
