@@ -15,10 +15,10 @@ Export/share stories
 
 Can be used for games, educational tools, or chatbot prototypes
 
-Tech Stack
-Frontend: [React / HTML/CSS/JS]
-Mobile: [Dart]
-Backend: [Java]
+**Tech Stack**
+**Frontend**: [React / HTML/CSS/JS]
+**Mobile**: [Dart]
+**Backend**: [Java]
 
 
 Usage
